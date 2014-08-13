@@ -1,0 +1,17 @@
+.slider-selector {
+  position: relative;
+  overflow: hidden;
+  height: 50px;
+}
+.slider-selector__segmentText {
+  font-size: 12px;
+  text-decoration: none;
+  cursor: pointer;
+}
+.slider-selector__segmentText--hover {
+  fill: #369;
+  text-decoration: underline;
+}
+.slider-selector__selector {
+  cursor: pointer;
+}

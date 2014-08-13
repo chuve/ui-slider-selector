@@ -1,0 +1,15 @@
+{
+  "name": "svg.draggable",
+  "homepage": "https://github.com/mpetozzi/svg.draggable.js",
+  "version": "0.1.0",
+  "_release": "0.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.0",
+    "commit": "7fb9753431c1e716fd1733d08fe6889aad2834d1"
+  },
+  "_source": "git://github.com/mpetozzi/svg.draggable.js.git",
+  "_target": "~0.1.0",
+  "_originalSource": "svg.draggable",
+  "_direct": true
+}

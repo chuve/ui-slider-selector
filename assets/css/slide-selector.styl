@@ -1,0 +1,19 @@
+@import '../../../common/mixins'
+@import '../../../common/flat-ui/guideline'
+
+.slider-selector
+	position relative
+	overflow hidden
+	height 50px
+
+	&__segmentText
+		font-size 12px
+		text-decoration none
+		cursor pointer
+
+		&--hover
+			fill $colorLink
+			text-decoration underline
+
+	&__selector
+		cursor pointer

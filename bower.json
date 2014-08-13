@@ -1,0 +1,32 @@
+{
+  "name": "Slider-Selector UI",
+  "main": "slider-selector.js",
+  "version": "0.0.1",
+  "authors": [
+    "Evgeny Chuvelev <e.chuvelev@gmail.com>"
+  ],
+  "description": "UI Element",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "ui",
+    "widget"
+  ],
+  "license": "MIT",
+  "homepage": "http://chuve.ru",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "require-css": "~0.1.5",
+    "requirejs": "~2.1.14",
+    "svg.js": "~1.0.0-rc.9",
+    "svg.draggable": "~0.1.0"
+  }
+}
